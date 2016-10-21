@@ -8,7 +8,7 @@ public class Test {
 		list.add("sonoo");  
 		list.add("vimal");  
 		list.add("ratan");  
-		  
+		list.add("gokul");  
 		for(Object obj:list)  
 		System.out.println(obj);  
 		}  
